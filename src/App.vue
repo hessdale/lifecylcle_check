@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import LifeCycleExample from '@/assets/LifeCycleExample.vue';
+import LifeCycleExample from '@/components/LifeCycleExample.vue';
 
 export default {
   name: 'App',
